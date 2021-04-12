@@ -1,5 +1,5 @@
 {
-  "name": "dapp",
+  "name": "Dapp Exchange",
   "version": "0.2.0",
   "description": "Decentralized Ethereum Token Exchange",
   "author": "info@vandale.tech",
@@ -54,8 +54,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "web-vitals": "^1.1.1"
-  }
+  ]
 }
